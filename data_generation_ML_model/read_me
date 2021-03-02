@@ -1,3 +1,4 @@
 In this folder you can find:
 1. The files for creating the training data
 2. LightBGM model for peak pattern identification
+Train them and then the ML models for peak pattern identification are created. 
